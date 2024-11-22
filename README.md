@@ -2,7 +2,7 @@
 
 A simple Tic Tac Toe game built with **Pygame** and **NumPy**. This project serves as a fun introduction to game development using Python and can optionally be hosted on the web using **asyncio** with the Pygbag library.
 
----
+![thumbnail](https://github.com/tunde262/tic_tac_toe_game_python/blob/main/assets/thumbnail.png?raw=true)
 
 ## Features
 
@@ -15,7 +15,9 @@ A simple Tic Tac Toe game built with **Pygame** and **NumPy**. This project serv
 ---
 
 ## Requirements
-- Python 3.8+
+- Python 3.8+, recommended for the following reasons:
+  1. **Enhanced `asyncio` Support**: The project uses `asyncio.run()` for the optional web-hosting feature, which simplifies asynchronous execution.
+  2. **Compatibility with Pygbag**: Pygbag, used for web hosting, requires Python 3.8+.
 - Pygame
 - NumPy
 - (Optional) Pygbag for web hosting
