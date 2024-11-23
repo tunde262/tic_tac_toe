@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-A simple Tic Tac Toe game built with **Pygame** and **NumPy**. This project serves as a fun introduction to game development using Python and can optionally be hosted on the web using **asyncio** with the Pygbag library.
+A simple Tic Tac Toe game built with **Python** and **Pygame**. This project serves as a fun introduction to game development using Python and can optionally be hosted on the web using **asyncio** with the Pygbag library.
 
 ![thumbnail](https://github.com/tunde262/tic_tac_toe_game_python/blob/main/assets/thumbnail.png?raw=true)
 
